@@ -1,0 +1,8 @@
+.card {
+  width: 650px;
+  margin: 3% auto;
+  padding: 1rem;
+  background-color: rgb(73,73,65);
+  color: rgb(214, 176, 106);
+  text-align: center;
+}
